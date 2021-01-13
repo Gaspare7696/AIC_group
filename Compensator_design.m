@@ -6,7 +6,7 @@ CL=500e-12;
 
 %If we want wGBW=1.5MHz:
 
-Cc1=gm1/(1.5*10^6)
+Cc1= 15e-12 
 
 Rc1=1/gm3
 
