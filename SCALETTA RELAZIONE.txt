@@ -3,7 +3,7 @@
 - CARTA&PENNA: analisi singola stadi ecc...
 - SCHEMATICO CON MODELLI STANDARD: spiega le scelte progettuali (es VDD 5V, L e W cambiate per tecnologia, bias esterni ecc...).
 - SIMULAZIONI SCHEMATICO: con commenti dettagliati e confronto con il paper!
-- LAYOUT: come l'abbiamo impostato (stadi singoli e poi tutto assieme), interdigitated, quali scelte fatte ecc... 
+- LAYOUT: come l'abbiamo impostato (stadi singoli e poi tutto assieme), interdigitated, quali scelte fatte ecc... + High temperature simulations
 - SIMULAZIONI CON LAYOUT: ancora qualche commento ma soprattutto CONFRONTO con le simulazioni di prima e quelle del paper! 
 [- CONFRONTO TRA TUTTE LE SIMULAZIONI + commenti in generale;] 
 - EXTRA: possibile implementazione Vb2 (configurazione specchio mos con dimensionamento W/L, vedi appunti vari) e Ibias (beta multiplier) interni al chip!!! + analisi sul mismatch
